@@ -1,0 +1,1 @@
+{"name":"fieldservice-dns-records","version":"1.0.0","private":true,"type":"module","scripts":{"demo":"node --experimental-strip-types src/dispatch_dns_example.ts","test":"node --experimental-strip-types --test test/dispatch_dns.test.ts"},"dependencies":{"zod":"^3.23.8"}}
